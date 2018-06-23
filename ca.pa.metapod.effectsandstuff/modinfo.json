@@ -1,0 +1,43 @@
+{
+	"context": "client",
+	"identifier": "ca.pa.metapod.effectsandstuff",
+	"display_name": "effects and stuff",
+	"description": "adds aa and aoe effects, removes the Wyrm, Hornet, and Zeus from the select all air combat function, changes colonel weapon visual and grouping,  puts anchors closer together, and much more",
+	"author": "metapod",
+	"version": "1.0.0",
+	"build": "89755",
+	"date": "2018-06-25",
+	"signature": "not yet implemented",
+	"forum": "https://forums.uberent.com/threads/heavy-air-group-de-select.71557/",
+	"icon": "https://cdn.theatlantic.com/static/mt/assets/science/triduo.gif",
+	"priority": 100,
+	"url": "",
+	"download": "",
+	"unitList": false,
+	"fileSystem": false,
+	"searchable": [
+		"ui",
+		"metapod",
+		"effects",
+		"stuff",
+		"colours",
+		"explosion",
+		"cascadian"
+	],
+	"sort": "effects and stuff!",
+	"authors": [
+		"metapod"
+	],
+	"timestamp": 1481673600000,
+	"dependencies": [],
+	"companions": [],
+	"scenes": {},
+	"framework": false,
+	"available": true,
+	"enabled": true,
+	"titansOnly": false,
+	"classicOnly": false,
+	"classic": false,
+	"titans": false,
+	"conflicts": {}
+}
