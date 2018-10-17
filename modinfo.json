@@ -4,7 +4,7 @@
 	"display_name": "effects and stuff",
 	"description": "adds aa and aoe effects, removes the Wyrm, Hornet, and Zeus from the select all air combat function, changes colonel weapon visual and grouping,  puts anchors closer together, and much more",
 	"author": "Metapod",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"build": "89755",
 	"date": "2018-10-17",
 	"signature": "not yet implemented",
